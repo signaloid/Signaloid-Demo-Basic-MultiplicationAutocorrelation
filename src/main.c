@@ -130,7 +130,7 @@ main(int argc, char *  argv[])
 		/*
 		 *	Uncertainty Tracking computation
 		 */
-		printf("Implicit computation of A*A.\n");
+		printf("Implicit computation of A*A\n");
 		/*
 		 *	Load samples into distributional double variables.
 		 */
